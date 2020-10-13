@@ -1,0 +1,59 @@
+* {
+  padding: 0;
+  margin: 0;
+  background-color: #312d29;
+}
+
+nav {
+  font-size: 20px;
+  font-family: "Bentham", serif;
+}
+
+div.card {
+  background-color: #312d29;
+  color: red;
+}
+
+h5.card-title {
+  color: rgb(228, 131, 20);
+  font-family: "IM Fell DW Pica SC", serif;
+}
+
+p.card-text {
+  color: rgb(120, 189, 253);
+  font-family: "Suravaram", serif;
+}
+
+h3.H3 {
+  color: rgb(230, 181, 231);
+  font-family: "Oldenburg", cursive;
+  margin: 10px;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+
+}
+
+#carouselExampleSlidesOnly {
+  margin-bottom: 50px;
+}
+
+img.Sara,
+img.Jony
+{
+    max-height: 500px;
+    max-width: 500 px;
+    border-radius: 500px;
+    
+    margin: 70px;
+    border: 10px dashed tomato;
+    
+}
+
+.Alumn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+
+}
